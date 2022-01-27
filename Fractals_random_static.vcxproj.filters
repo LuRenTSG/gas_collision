@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\LuRen\Downloads\freeglut\freeglut-3.2.1\progs\demos\Fractals_random\fractals_random.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\LuRen\Downloads\freeglut\freeglut-3.2.1\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{637D2E61-1F48-3566-973B-62D4995A4D52}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
